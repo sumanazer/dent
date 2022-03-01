@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab&display=swap');
+
+html, body {
+    font-family: 'Roboto', sans-serif;
+    color: #626262;
+}
+
+a {
+    color: #2BAACE; 
+}
+
+a:hover{
+    color: #25E6C8;
+}
+#navbar-top {
+    border: 1px solid #c5c5c5;
+    height: 60px;
+}
+
+#navbar-top .working-hours i {
+    color: #2BAACE;
+    font-size: 1.2rem;
+    margin-right: 0.8rem;
+}
+
+#navbar-top .social-media i {
+    font-size: 1rem;
+    margin-left: 1.7rem;
+}
